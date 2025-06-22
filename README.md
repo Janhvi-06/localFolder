@@ -1,1 +1,1 @@
-<h1>hello!this is my localFolder.</h1
+<h1>Hello! This is my localFolder.</h1
